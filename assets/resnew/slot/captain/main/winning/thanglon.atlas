@@ -1,0 +1,20 @@
+
+thanglon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 120
+  size: 874, 169
+  orig: 874, 169
+  offset: 0, 0
+  index: -1
+thang lon
+  rotate: false
+  xy: 2, 2
+  size: 640, 116
+  orig: 640, 116
+  offset: 0, 0
+  index: -1

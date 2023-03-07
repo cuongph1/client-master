@@ -1,0 +1,41 @@
+
+slot2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 1
+  size: 248, 473
+  orig: 248, 473
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 379, 204
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+mayback_icon
+  rotate: false
+  xy: 251, 204
+  size: 126, 74
+  orig: 126, 74
+  offset: 0, 0
+  index: -1
+may
+  rotate: false
+  xy: 251, 1
+  size: 228, 158
+  orig: 228, 158
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 251, 161
+  size: 233, 41
+  orig: 233, 41
+  offset: 0, 0
+  index: -1

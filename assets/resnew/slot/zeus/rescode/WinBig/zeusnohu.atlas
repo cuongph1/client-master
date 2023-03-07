@@ -1,0 +1,152 @@
+
+zeusnohu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backglow
+  rotate: false
+  xy: 2, 2
+  size: 828, 449
+  orig: 828, 449
+  offset: 0, 0
+  index: -1
+Flare 4
+  rotate: false
+  xy: 743, 457
+  size: 82, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+Flare 5
+  rotate: false
+  xy: 2, 453
+  size: 739, 568
+  orig: 739, 568
+  offset: 0, 0
+  index: -1
+Glow dot
+  rotate: true
+  xy: 743, 701
+  size: 320, 246
+  orig: 320, 246
+  offset: 0, 0
+  index: -1
+L Leaf
+  rotate: true
+  xy: 832, 15
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+Stone
+  rotate: true
+  xy: 930, 614
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+Thunder VFX
+  rotate: false
+  xy: 743, 516
+  size: 185, 183
+  orig: 185, 183
+  offset: 0, 0
+  index: -1
+Upper Cloth
+  rotate: true
+  xy: 832, 144
+  size: 370, 136
+  orig: 370, 136
+  offset: 0, 0
+  index: -1
+
+zeusnohu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud
+  rotate: false
+  xy: 2, 667
+  size: 897, 305
+  orig: 897, 305
+  offset: 0, 0
+  index: -1
+Flare 1
+  rotate: false
+  xy: 436, 192
+  size: 162, 184
+  orig: 162, 184
+  offset: 0, 0
+  index: -1
+Flare 2
+  rotate: true
+  xy: 793, 506
+  size: 159, 126
+  orig: 159, 126
+  offset: 0, 0
+  index: -1
+Flare 3
+  rotate: true
+  xy: 901, 669
+  size: 303, 98
+  orig: 303, 98
+  offset: 0, 0
+  index: -1
+Glow dot 2
+  rotate: false
+  xy: 409, 498
+  size: 194, 167
+  orig: 194, 167
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 143
+  size: 303, 205
+  orig: 303, 205
+  offset: 0, 0
+  index: -1
+Hu
+  rotate: false
+  xy: 409, 378
+  size: 215, 118
+  orig: 215, 118
+  offset: 0, 0
+  index: -1
+Lower Hand
+  rotate: false
+  xy: 626, 336
+  size: 167, 160
+  orig: 167, 160
+  offset: 0, 0
+  index: -1
+No
+  rotate: false
+  xy: 2, 2
+  size: 217, 139
+  orig: 217, 139
+  offset: 0, 0
+  index: -1
+R Leaf
+  rotate: false
+  xy: 307, 161
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+Upper Hand
+  rotate: false
+  xy: 605, 498
+  size: 186, 167
+  orig: 186, 167
+  offset: 0, 0
+  index: -1
+Zeus
+  rotate: false
+  xy: 2, 350
+  size: 405, 315
+  orig: 405, 315
+  offset: 0, 0
+  index: -1

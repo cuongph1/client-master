@@ -1,0 +1,41 @@
+
+MTDH.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78
+  rotate: false
+  xy: 1, 1
+  size: 294, 247
+  orig: 296, 249
+  offset: 1, 1
+  index: -1
+Layer 119
+  rotate: false
+  xy: 406, 1
+  size: 98, 91
+  orig: 161, 114
+  offset: 28, 14
+  index: -1
+Layer 120
+  rotate: false
+  xy: 297, 1
+  size: 107, 102
+  orig: 125, 102
+  offset: 9, 0
+  index: -1
+Layer 122
+  rotate: false
+  xy: 297, 162
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+Layer 117
+  rotate: false
+  xy: 297, 105
+  size: 167, 55
+  orig: 172, 87
+  offset: 1, 16
+  index: -1

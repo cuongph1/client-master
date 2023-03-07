@@ -1,0 +1,27 @@
+
+car.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car
+  rotate: false
+  xy: 2, 2
+  size: 744, 481
+  orig: 744, 481
+  offset: 0, 0
+  index: -1
+light_fare
+  rotate: true
+  xy: 748, 183
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 748, 109
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1

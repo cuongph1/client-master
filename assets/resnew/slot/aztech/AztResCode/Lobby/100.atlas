@@ -1,0 +1,90 @@
+
+100.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 2, 204
+  size: 410, 106
+  orig: 410, 106
+  offset: 0, 0
+  index: -1
+Rhad
+  rotate: false
+  xy: 232, 29
+  size: 141, 173
+  orig: 141, 173
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 696, 331
+  size: 72, 201
+  orig: 72, 201
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 13
+  size: 189, 228
+  orig: 189, 228
+  offset: 0, 0
+  index: -1
+bua
+  rotate: true
+  xy: 2, 312
+  size: 180, 510
+  orig: 180, 510
+  offset: 0, 0
+  index: -1
+bua2
+  rotate: false
+  xy: 514, 330
+  size: 180, 162
+  orig: 180, 162
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 552, 208
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 704, 202
+  size: 153, 127
+  orig: 153, 127
+  offset: 0, 0
+  index: -1
+ktai
+  rotate: false
+  xy: 947, 463
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 696, 405
+  size: 87, 249
+  orig: 87, 249
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: false
+  xy: 375, 2
+  size: 79, 200
+  orig: 79, 200
+  offset: 0, 0
+  index: -1
+vongco
+  rotate: false
+  xy: 414, 213
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1

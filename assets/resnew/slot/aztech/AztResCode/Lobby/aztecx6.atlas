@@ -1,0 +1,76 @@
+
+aztecx6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: true
+  xy: 2, 2
+  size: 232, 273
+  orig: 232, 273
+  offset: 0, 0
+  index: -1
+Crystal 1
+  rotate: false
+  xy: 410, 413
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+Crystal 2
+  rotate: false
+  xy: 354, 123
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+Gold Head
+  rotate: false
+  xy: 286, 374
+  size: 122, 136
+  orig: 122, 136
+  offset: 0, 0
+  index: -1
+Layer 35
+  rotate: true
+  xy: 286, 223
+  size: 149, 58
+  orig: 149, 58
+  offset: 0, 0
+  index: -1
+P 100
+  rotate: true
+  xy: 385, 222
+  size: 150, 36
+  orig: 150, 36
+  offset: 0, 0
+  index: -1
+P 10K copy
+  rotate: true
+  xy: 316, 70
+  size: 150, 36
+  orig: 150, 36
+  offset: 0, 0
+  index: -1
+P 1K
+  rotate: true
+  xy: 346, 222
+  size: 150, 37
+  orig: 150, 37
+  offset: 0, 0
+  index: -1
+P 5K
+  rotate: true
+  xy: 277, 71
+  size: 150, 37
+  orig: 150, 37
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 2, 236
+  size: 282, 274
+  orig: 282, 274
+  offset: 0, 0
+  index: -1

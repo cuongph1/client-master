@@ -1,0 +1,62 @@
+
+Sam_solo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG0
+  rotate: false
+  xy: 2, 5
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1
+IC11
+  rotate: false
+  xy: 540, 57
+  size: 211, 197
+  orig: 211, 197
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 753, 180
+  size: 232, 74
+  orig: 232, 74
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 1
+  rotate: false
+  xy: 439, 12
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+SOLO
+  rotate: true
+  xy: 987, 207
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+SOLO copy
+  rotate: false
+  xy: 753, 128
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+TEN
+  rotate: false
+  xy: 300, 2
+  size: 137, 39
+  orig: 137, 39
+  offset: 0, 0
+  index: -1
+c8c9a3de569241bae8f3a7447ef6098719f443c716082-2x8FMo
+  rotate: false
+  xy: 300, 43
+  size: 238, 211
+  orig: 238, 211
+  offset: 0, 0
+  index: -1

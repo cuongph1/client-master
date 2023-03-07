@@ -1,0 +1,41 @@
+
+NoHu-Daily.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nap
+  rotate: false
+  xy: 1, 88
+  size: 125, 80
+  orig: 136, 89
+  offset: 6, 0
+  index: -1
+18
+  rotate: false
+  xy: 1, 1
+  size: 132, 85
+  orig: 136, 89
+  offset: 2, 2
+  index: -1
+19
+  rotate: false
+  xy: 128, 88
+  size: 89, 78
+  orig: 91, 82
+  offset: 1, 2
+  index: -1
+rut
+  rotate: false
+  xy: 135, 1
+  size: 89, 66
+  orig: 91, 82
+  offset: 0, 10
+  index: -1
+light
+  rotate: false
+  xy: 1, 170
+  size: 197, 25
+  orig: 200, 29
+  offset: 0, 2
+  index: -1

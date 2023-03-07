@@ -1,0 +1,76 @@
+
+Mini_Poker.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78
+  rotate: false
+  xy: 1, 1
+  size: 264, 235
+  orig: 296, 249
+  offset: 16, 1
+  index: -1
+Layer 117
+  rotate: false
+  xy: 1, 238
+  size: 95, 40
+  orig: 97, 42
+  offset: 1, 1
+  index: -1
+poker
+  rotate: false
+  xy: 267, 130
+  size: 170, 44
+  orig: 172, 46
+  offset: 1, 1
+  index: -1
+Layer 111
+  rotate: false
+  xy: 491, 227
+  size: 14, 37
+  orig: 16, 39
+  offset: 1, 1
+  index: -1
+Layer 110
+  rotate: false
+  xy: 267, 1
+  size: 235, 127
+  orig: 237, 129
+  offset: 1, 1
+  index: -1
+Layer 112
+  rotate: false
+  xy: 98, 238
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+Layer 113
+  rotate: false
+  xy: 267, 176
+  size: 88, 81
+  orig: 90, 83
+  offset: 1, 1
+  index: -1
+Layer 114
+  rotate: false
+  xy: 439, 130
+  size: 67, 95
+  orig: 69, 97
+  offset: 1, 1
+  index: -1
+Layer 115
+  rotate: false
+  xy: 424, 227
+  size: 65, 91
+  orig: 67, 93
+  offset: 1, 1
+  index: -1
+Layer 116
+  rotate: false
+  xy: 357, 176
+  size: 65, 97
+  orig: 67, 99
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,104 @@
+
+tamhung.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9fca93d0-6029-4305-a704-e7cead8ed011
+  rotate: true
+  xy: 541, 186
+  size: 324, 499
+  orig: 324, 499
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 1042, 186
+  size: 324, 399
+  orig: 324, 399
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 1661, 231
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 541, 2
+  size: 149, 182
+  orig: 149, 182
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 1740, 412
+  size: 98, 174
+  orig: 98, 174
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 1443, 339
+  size: 295, 171
+  orig: 295, 171
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 1443, 191
+  size: 146, 216
+  orig: 146, 216
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 336, 92
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 692, 122
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 1740, 381
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 2, 8
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 1916, 445
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+Layer 723 copy 2
+  rotate: true
+  xy: 2, 142
+  size: 368, 537
+  orig: 368, 537
+  offset: 0, 0
+  index: -1
+Layer 728
+  rotate: false
+  xy: 2, 25
+  size: 332, 115
+  orig: 332, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+CT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78 copy
+  rotate: false
+  xy: 1, 1
+  size: 264, 235
+  orig: 296, 249
+  offset: 16, 1
+  index: -1
+Layer 6795
+  rotate: false
+  xy: 267, 120
+  size: 152, 116
+  orig: 154, 118
+  offset: 1, 1
+  index: -1
+Layer 6796
+  rotate: false
+  xy: 267, 1
+  size: 153, 117
+  orig: 155, 119
+  offset: 1, 1
+  index: -1
+cao THẤP
+  rotate: false
+  xy: 1, 238
+  size: 133, 54
+  orig: 135, 56
+  offset: 1, 1
+  index: -1
+Layer 6802
+  rotate: false
+  xy: 136, 238
+  size: 102, 43
+  orig: 104, 45
+  offset: 1, 1
+  index: -1

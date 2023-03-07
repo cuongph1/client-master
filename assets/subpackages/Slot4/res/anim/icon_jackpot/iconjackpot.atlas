@@ -1,0 +1,41 @@
+
+iconjackpot.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 62
+  rotate: false
+  xy: 112, 16
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+Layer 63
+  rotate: true
+  xy: 229, 21
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: false
+  xy: 2, 2
+  size: 108, 118
+  orig: 108, 118
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: false
+  xy: 349, 80
+  size: 135, 40
+  orig: 135, 40
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: false
+  xy: 349, 40
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+SX.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78 copy 2
+  rotate: false
+  xy: 1, 1
+  size: 264, 231
+  orig: 296, 249
+  offset: 16, 0
+  index: -1
+Layer 6808
+  rotate: false
+  xy: 267, 1
+  size: 200, 146
+  orig: 247, 147
+  offset: 23, 1
+  index: -1
+Layer 6809
+  rotate: false
+  xy: 431, 149
+  size: 22, 7
+  orig: 98, 96
+  offset: 15, 0
+  index: -1
+Layer 6810
+  rotate: false
+  xy: 431, 158
+  size: 2, 8
+  orig: 112, 115
+  offset: 0, 11
+  index: -1
+Layer 6811
+  rotate: false
+  xy: 455, 149
+  size: 3, 20
+  orig: 103, 105
+  offset: 0, 2
+  index: -1
+BẦU CUA
+  rotate: false
+  xy: 267, 149
+  size: 162, 53
+  orig: 214, 53
+  offset: 27, 0
+  index: -1

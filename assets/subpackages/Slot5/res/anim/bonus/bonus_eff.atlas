@@ -1,0 +1,83 @@
+
+bonus_eff.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rays
+  rotate: false
+  xy: 1, 1
+  size: 876, 897
+  orig: 876, 897
+  offset: 0, 0
+  index: -1
+coin/coina
+  rotate: false
+  xy: 581, 1554
+  size: 35, 129
+  orig: 35, 129
+  offset: 0, 0
+  index: -1
+coin/coinc
+  rotate: false
+  xy: 1, 1864
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+coin/coinb
+  rotate: false
+  xy: 130, 1864
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1, 900
+  size: 637, 652
+  orig: 637, 652
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 640, 900
+  size: 584, 608
+  orig: 584, 608
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 1, 1554
+  size: 288, 308
+  orig: 288, 308
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 291, 1554
+  size: 288, 308
+  orig: 288, 308
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 640, 1510
+  size: 779, 255
+  orig: 779, 255
+  offset: 0, 0
+  index: -1
+tl_wing2
+  rotate: false
+  xy: 879, 1
+  size: 160, 282
+  orig: 160, 282
+  offset: 0, 0
+  index: -1
+tl_wing1
+  rotate: false
+  xy: 879, 285
+  size: 160, 282
+  orig: 160, 282
+  offset: 0, 0
+  index: -1

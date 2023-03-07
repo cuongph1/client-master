@@ -1,0 +1,69 @@
+
+logo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1 copy 11
+  rotate: false
+  xy: 2, 291
+  size: 575, 209
+  orig: 575, 209
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 579, 368
+  size: 420, 132
+  orig: 420, 132
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 719, 229
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 1 copy
+  rotate: false
+  xy: 2, 107
+  size: 548, 182
+  orig: 548, 182
+  offset: 0, 0
+  index: -1
+bo bai_01
+  rotate: false
+  xy: 2, 2
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+bo bai_11
+  rotate: true
+  xy: 692, 107
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+bo bai_15
+  rotate: true
+  xy: 579, 232
+  size: 134, 138
+  orig: 134, 138
+  offset: 0, 0
+  index: -1
+bo bai_19
+  rotate: false
+  xy: 858, 233
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+bo bai_23
+  rotate: false
+  xy: 552, 107
+  size: 138, 123
+  orig: 138, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+tlnhbn.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 604, 245
+  orig: 604, 245
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1586, 823
+  size: 414, 92
+  orig: 414, 92
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 249
+  size: 782, 666
+  orig: 782, 666
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 786, 635
+  size: 798, 280
+  orig: 798, 280
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 786, 57
+  size: 600, 218
+  orig: 600, 218
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 786, 277
+  size: 659, 356
+  orig: 659, 356
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 1447, 136
+  size: 497, 195
+  orig: 497, 195
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+BauVatAiCapIcon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NenBe2
+  rotate: false
+  xy: 1, 404
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+NenTo2
+  rotate: false
+  xy: 229, 404
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+NhanVat
+  rotate: false
+  xy: 457, 570
+  size: 91, 225
+  orig: 91, 225
+  offset: 0, 0
+  index: -1
+NhanVatA
+  rotate: false
+  xy: 648, 1
+  size: 182, 337
+  orig: 182, 337
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 599, 474
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 457, 339
+  size: 140, 229
+  orig: 140, 229
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 238, 339
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 599, 339
+  size: 44, 133
+  orig: 44, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 457, 797
+  size: 133, 143
+  orig: 133, 143
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 295, 339
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+earing1
+  rotate: false
+  xy: 486, 942
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 229, 799
+  size: 65, 197
+  orig: 65, 197
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 296, 865
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+NhanVatB
+  rotate: false
+  xy: 449, 1
+  size: 197, 336
+  orig: 197, 336
+  offset: 0, 0
+  index: -1
+NhanVatC
+  rotate: false
+  xy: 238, 1
+  size: 209, 336
+  orig: 209, 336
+  offset: 0, 0
+  index: -1
+blacklayer
+  rotate: false
+  xy: 1, 799
+  size: 226, 184
+  orig: 226, 184
+  offset: 0, 0
+  index: -1
+CanhPhai
+  rotate: false
+  xy: 645, 340
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+BauVat
+  rotate: false
+  xy: 296, 942
+  size: 188, 64
+  orig: 188, 64
+  offset: 0, 0
+  index: -1
+CanhTrai
+  rotate: false
+  xy: 375, 865
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+AiCap
+  rotate: false
+  xy: 296, 799
+  size: 158, 64
+  orig: 158, 64
+  offset: 0, 0
+  index: -1
+tail-path
+  rotate: false
+  xy: 238, 391
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/bum1_0005_light4
+  rotate: false
+  xy: 550, 570
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

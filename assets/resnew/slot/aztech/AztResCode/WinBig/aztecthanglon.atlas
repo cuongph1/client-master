@@ -1,0 +1,104 @@
+
+aztecthanglon.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bot Base
+  rotate: false
+  xy: 572, 763
+  size: 645, 248
+  orig: 645, 248
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 2, 262
+  size: 496, 366
+  orig: 496, 366
+  offset: 0, 0
+  index: -1
+Layer 12 copy
+  rotate: false
+  xy: 2, 630
+  size: 568, 381
+  orig: 568, 381
+  offset: 0, 0
+  index: -1
+Leaf 1L
+  rotate: true
+  xy: 341, 49
+  size: 211, 142
+  orig: 211, 142
+  offset: 0, 0
+  index: -1
+Leaf 1R
+  rotate: true
+  xy: 500, 417
+  size: 211, 142
+  orig: 211, 142
+  offset: 0, 0
+  index: -1
+Leaf 2L
+  rotate: false
+  xy: 1872, 946
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+Leaf 2R
+  rotate: true
+  xy: 500, 270
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+Leaf 3L
+  rotate: false
+  xy: 644, 545
+  size: 185, 89
+  orig: 185, 89
+  offset: 0, 0
+  index: -1
+Leaf 3R
+  rotate: false
+  xy: 644, 454
+  size: 185, 89
+  orig: 185, 89
+  offset: 0, 0
+  index: -1
+Mask 1
+  rotate: true
+  xy: 1601, 600
+  size: 239, 294
+  orig: 239, 294
+  offset: 0, 0
+  index: -1
+Mask 2
+  rotate: true
+  xy: 2, 2
+  size: 258, 337
+  orig: 258, 337
+  offset: 0, 0
+  index: -1
+TL
+  rotate: false
+  xy: 572, 636
+  size: 621, 125
+  orig: 621, 125
+  offset: 0, 0
+  index: -1
+TL Base
+  rotate: false
+  xy: 1219, 841
+  size: 651, 170
+  orig: 651, 170
+  offset: 0, 0
+  index: -1
+Under Base
+  rotate: false
+  xy: 1219, 652
+  size: 380, 187
+  orig: 380, 187
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_tien
+  rotate: true
+  xy: 912, 204
+  size: 298, 76
+  orig: 298, 76
+  offset: 0, 0
+  index: -1
+bg_tien_00000
+  rotate: false
+  xy: 2, 764
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00001
+  rotate: false
+  xy: 504, 894
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00002
+  rotate: false
+  xy: 2, 634
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00003
+  rotate: false
+  xy: 504, 764
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00004
+  rotate: false
+  xy: 2, 504
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00005
+  rotate: true
+  xy: 2, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00006
+  rotate: true
+  xy: 132, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00007
+  rotate: true
+  xy: 262, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00008
+  rotate: true
+  xy: 392, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00009
+  rotate: false
+  xy: 504, 634
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00010
+  rotate: false
+  xy: 504, 504
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00011
+  rotate: true
+  xy: 522, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00012
+  rotate: true
+  xy: 652, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00013
+  rotate: true
+  xy: 782, 2
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1
+bg_tien_00014
+  rotate: false
+  xy: 2, 894
+  size: 500, 128
+  orig: 500, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+NoHu-Footer-Sukien.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 97, 72
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 97
+  size: 236, 156
+  orig: 236, 156
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1

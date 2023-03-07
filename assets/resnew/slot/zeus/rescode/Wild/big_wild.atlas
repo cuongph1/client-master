@@ -1,0 +1,83 @@
+
+big_wild.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 109
+  size: 133, 389
+  orig: 133, 389
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 12
+  size: 95, 158
+  orig: 95, 158
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: true
+  xy: 652, 37
+  size: 75, 127
+  orig: 75, 127
+  offset: 0, 0
+  index: -1
+Lightning
+  rotate: true
+  xy: 393, 2
+  size: 240, 257
+  orig: 240, 257
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: true
+  xy: 270, 56
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+flare13
+  rotate: false
+  xy: 652, 9
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+ice_core_len
+  rotate: false
+  xy: 652, 114
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lightning-_0000_Layer-1
+  rotate: false
+  xy: 782, 159
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1
+lightning-_0001_Layer-2
+  rotate: false
+  xy: 162, 39
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: -1
+lightning-_0002_Layer-3
+  rotate: false
+  xy: 782, 102
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+lightning-_0003_Layer-4
+  rotate: false
+  xy: 925, 186
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1

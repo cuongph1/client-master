@@ -1,0 +1,55 @@
+
+aztec20lines.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line_01
+  rotate: false
+  xy: 2, 584
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_03
+  rotate: false
+  xy: 2, 293
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_04
+  rotate: false
+  xy: 643, 584
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_05
+  rotate: false
+  xy: 2, 2
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_06
+  rotate: false
+  xy: 643, 293
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_07
+  rotate: false
+  xy: 1284, 584
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1
+Line_08
+  rotate: false
+  xy: 643, 2
+  size: 639, 289
+  orig: 639, 289
+  offset: 0, 0
+  index: -1

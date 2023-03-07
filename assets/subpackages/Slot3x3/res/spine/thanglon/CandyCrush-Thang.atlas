@@ -1,0 +1,48 @@
+
+CandyCrush-Thang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minigame/Candy Crush/image/effect-nohu
+  rotate: false
+  xy: 2, 505
+  size: 672, 516
+  orig: 672, 516
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/effect-sieuthanglon
+  rotate: false
+  xy: 2, 120
+  size: 595, 383
+  orig: 595, 383
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/effect-thanglon
+  rotate: true
+  xy: 676, 643
+  size: 378, 295
+  orig: 378, 295
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-nohu
+  rotate: true
+  xy: 779, 273
+  size: 368, 145
+  orig: 368, 145
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-sieuthanglon
+  rotate: true
+  xy: 599, 133
+  size: 370, 178
+  orig: 370, 178
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-thanglon
+  rotate: false
+  xy: 2, 2
+  size: 398, 116
+  orig: 398, 116
+  offset: 0, 0
+  index: -1

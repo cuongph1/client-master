@@ -1,0 +1,139 @@
+
+10000.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 19
+  rotate: false
+  xy: 2, 142
+  size: 729, 865
+  orig: 729, 865
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 2, 2
+  size: 138, 200
+  orig: 138, 200
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 733, 107
+  size: 283, 353
+  orig: 283, 353
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 1720, 677
+  size: 187, 330
+  orig: 187, 330
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 733, 684
+  size: 572, 323
+  orig: 572, 323
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 1307, 730
+  size: 277, 411
+  orig: 277, 411
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 733, 392
+  size: 415, 290
+  orig: 415, 290
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: true
+  xy: 1909, 793
+  size: 214, 89
+  orig: 214, 89
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: true
+  xy: 1150, 478
+  size: 204, 116
+  orig: 204, 116
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: true
+  xy: 1088, 172
+  size: 218, 53
+  orig: 218, 53
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 204, 6
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 1909, 672
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: false
+  xy: 1150, 379
+  size: 148, 97
+  orig: 148, 97
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: false
+  xy: 1307, 626
+  size: 146, 102
+  orig: 146, 102
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: false
+  xy: 508, 38
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: false
+  xy: 1143, 275
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: false
+  xy: 204, 35
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+Layer 46
+  rotate: false
+  xy: 1143, 175
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+Layer 47
+  rotate: false
+  xy: 356, 35
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1

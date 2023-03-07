@@ -1,0 +1,41 @@
+
+slot4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 1
+  size: 248, 473
+  orig: 250, 475
+  offset: 1, 1
+  index: -1
+Layer 21
+  rotate: false
+  xy: 466, 159
+  size: 44, 42
+  orig: 46, 44
+  offset: 1, 1
+  index: -1
+584290c1a6515b1e0ad75ac3
+  rotate: false
+  xy: 407, 159
+  size: 57, 65
+  orig: 59, 67
+  offset: 1, 1
+  index: -1
+roll
+  rotate: false
+  xy: 251, 1
+  size: 218, 156
+  orig: 220, 158
+  offset: 1, 1
+  index: -1
+rol2
+  rotate: false
+  xy: 251, 159
+  size: 154, 81
+  orig: 156, 83
+  offset: 1, 1
+  index: -1

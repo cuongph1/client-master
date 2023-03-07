@@ -1,0 +1,69 @@
+
+thanglon.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7b27b2ab-6805-411d-be35-c89a3cc4ce6b
+  rotate: false
+  xy: 2, 376
+  size: 557, 548
+  orig: 557, 548
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 561, 317
+  size: 446, 297
+  orig: 446, 297
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 1355, 331
+  size: 277, 155
+  orig: 277, 155
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1009, 206
+  size: 408, 182
+  orig: 408, 182
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1193, 169
+  size: 445, 160
+  orig: 445, 160
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 406, 372
+  orig: 406, 372
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1298, 645
+  size: 607, 279
+  orig: 607, 279
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 561, 616
+  size: 735, 308
+  orig: 735, 308
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1355, 488
+  size: 277, 155
+  orig: 277, 155
+  offset: 0, 0
+  index: -1

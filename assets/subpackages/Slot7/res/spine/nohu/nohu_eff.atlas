@@ -1,0 +1,83 @@
+
+nohu_eff.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rays
+  rotate: false
+  xy: 1, 1
+  size: 876, 897
+  orig: 878, 899
+  offset: 1, 1
+  index: -1
+coin/coina
+  rotate: false
+  xy: 1789, 263
+  size: 35, 129
+  orig: 37, 131
+  offset: 1, 1
+  index: -1
+coin/coinc
+  rotate: false
+  xy: 1755, 1
+  size: 127, 129
+  orig: 129, 131
+  offset: 1, 1
+  index: -1
+coin/coinb
+  rotate: false
+  xy: 1755, 132
+  size: 91, 129
+  orig: 93, 130
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 879, 1
+  size: 584, 608
+  orig: 586, 610
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: false
+  xy: 1568, 611
+  size: 288, 308
+  orig: 290, 310
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 1465, 1
+  size: 288, 308
+  orig: 290, 310
+  offset: 1, 1
+  index: -1
+tl_wing2
+  rotate: false
+  xy: 1627, 311
+  size: 160, 282
+  orig: 162, 284
+  offset: 1, 1
+  index: -1
+tl_wing1
+  rotate: false
+  xy: 1465, 311
+  size: 160, 282
+  orig: 162, 284
+  offset: 1, 1
+  index: -1
+text_big
+  rotate: false
+  xy: 879, 611
+  size: 687, 291
+  orig: 763, 502
+  offset: 38, 105
+  index: -1
+coin_banner
+  rotate: false
+  xy: 1, 900
+  size: 600, 109
+  orig: 602, 111
+  offset: 1, 1
+  index: -1

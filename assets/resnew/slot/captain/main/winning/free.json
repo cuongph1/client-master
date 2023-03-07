@@ -1,0 +1,99 @@
+{
+"skeleton": { "hash": "Z/NtaKASDQh7OC8hhX6oFdcW+nk", "spine": "3.6.53", "width": 665, "height": 465, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "FREE SPIN", "parent": "root", "x": -122.08, "y": 27.18 },
+	{ "name": "FREE SPIN2", "parent": "root", "x": 229.69, "y": 21.26 },
+	{ "name": "fx", "parent": "root", "x": 9.55, "y": 16.6 }
+],
+"slots": [
+	{ "name": "fx", "bone": "fx", "attachment": "fx" },
+	{ "name": "FREE SPIN", "bone": "FREE SPIN", "attachment": "FREE SPIN" },
+	{ "name": "FREE SPIN2", "bone": "FREE SPIN2", "attachment": "FREE SPIN" }
+],
+"skins": {
+	"default": {
+		"FREE SPIN": {
+			"FREE SPIN": {
+				"type": "mesh",
+				"uvs": [ 0.5262, 0, 0.5105, 1, 0, 1, 0, 0 ],
+				"triangles": [ 1, 2, 3, 0, 1, 3 ],
+				"vertices": [ 175.02, 33.96, 164.59, -61.04, -174.9, -61.04, -174.9, 33.96 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 665,
+				"height": 95
+			}
+		},
+		"FREE SPIN2": {
+			"FREE SPIN": {
+				"type": "mesh",
+				"uvs": [ 0.54456, 0, 0.52889, 1, 1, 1, 1, 0 ],
+				"triangles": [ 0, 3, 2, 1, 0, 2 ],
+				"vertices": [ -164.53, 39.88, -174.95, -55.12, 138.34, -55.12, 138.34, 39.88 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 665,
+				"height": 95
+			}
+		},
+		"fx": {
+			"fx": { "x": -3.02, "y": -2.96, "width": 521, "height": 465 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"FREE SPIN": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"FREE SPIN2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"FREE SPIN": {
+				"scale": [
+					{ "time": 0, "x": 3, "y": 3 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.4333, "x": 1.111, "y": 1.111 },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.5667, "x": 1.111, "y": 1.111 },
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"FREE SPIN2": {
+				"scale": [
+					{ "time": 0, "x": 3, "y": 3, "curve": "stepped" },
+					{ "time": 0.1667, "x": 3, "y": 3 },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.6, "x": 1.111, "y": 1.111 },
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 1.111, "y": 1.111 },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"fx": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 2, "angle": 90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 1.301, "y": 1.301 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

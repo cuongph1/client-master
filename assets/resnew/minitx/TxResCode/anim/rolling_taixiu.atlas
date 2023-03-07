@@ -1,0 +1,83 @@
+
+rolling_taixiu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef2li
+  rotate: false
+  xy: 720, 123
+  size: 184, 60
+  orig: 184, 60
+  offset: 0, 0
+  index: -1
+eff1l
+  rotate: false
+  xy: 536, 92
+  size: 182, 91
+  orig: 182, 91
+  offset: 0, 0
+  index: -1
+li_tx
+  rotate: false
+  xy: 2, 147
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 620, 330
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 620, 185
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set3
+  rotate: false
+  xy: 798, 330
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set4
+  rotate: false
+  xy: 798, 185
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set5
+  rotate: false
+  xy: 180, 2
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set6
+  rotate: false
+  xy: 358, 40
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+set7
+  rotate: false
+  xy: 2, 2
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+txball
+  rotate: false
+  xy: 330, 185
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1

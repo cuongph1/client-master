@@ -1,0 +1,20 @@
+
+NoHu-Footer-Chuyenkhoan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 2, 2
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 102, 69
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1

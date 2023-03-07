@@ -1,0 +1,83 @@
+
+P-ChoiThat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 62
+  size: 95, 52
+  orig: 97, 54
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 269, 48
+  size: 165, 191
+  orig: 167, 193
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 579, 320
+  size: 53, 19
+  orig: 55, 21
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 910, 355
+  size: 126, 97
+  orig: 128, 99
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 269, 302
+  size: 308, 179
+  orig: 310, 181
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 99, 64
+  size: 47, 50
+  orig: 49, 52
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 62, 58
+  orig: 64, 60
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 462, 117
+  size: 43, 96
+  orig: 45, 98
+  offset: 1, 1
+  index: -1
+image/banner
+  rotate: false
+  xy: 579, 341
+  size: 329, 140
+  orig: 329, 140
+  offset: 0, 0
+  index: -1
+image/chienngay_tillte
+  rotate: false
+  xy: 269, 215
+  size: 317, 85
+  orig: 334, 98
+  offset: 8, 5
+  index: -1
+image/khung_bg
+  rotate: false
+  xy: 2, 116
+  size: 265, 365
+  orig: 268, 368
+  offset: 1, 2
+  index: -1

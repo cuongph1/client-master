@@ -1,0 +1,27 @@
+
+HotTick.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGHot
+  rotate: false
+  xy: 2, 18
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+HotGlow
+  rotate: false
+  xy: 60, 19
+  size: 56, 42
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+HotTrang
+  rotate: false
+  xy: 2, 2
+  size: 32, 14
+  orig: 56, 43
+  offset: 11, 14
+  index: -1

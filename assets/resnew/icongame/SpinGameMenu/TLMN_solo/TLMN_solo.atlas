@@ -1,0 +1,83 @@
+
+TLMN_solo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgo
+  rotate: false
+  xy: 1, 1
+  size: 294, 247
+  orig: 296, 249
+  offset: 1, 1
+  index: -1
+Play Card set-02
+  rotate: false
+  xy: 297, 144
+  size: 126, 134
+  orig: 128, 136
+  offset: 1, 1
+  index: -1
+Play Card set-15
+  rotate: false
+  xy: 1, 250
+  size: 113, 139
+  orig: 115, 141
+  offset: 1, 1
+  index: -1
+Play Card set-28
+  rotate: false
+  xy: 116, 250
+  size: 100, 132
+  orig: 102, 134
+  offset: 1, 1
+  index: -1
+Play Card set-41
+  rotate: false
+  xy: 297, 1
+  size: 120, 141
+  orig: 122, 143
+  offset: 1, 1
+  index: -1
+vang2
+  rotate: false
+  xy: 218, 280
+  size: 205, 50
+  orig: 207, 52
+  offset: 1, 1
+  index: -1
+vang1
+  rotate: false
+  xy: 116, 384
+  size: 110, 108
+  orig: 112, 110
+  offset: 1, 1
+  index: -1
+chip
+  rotate: false
+  xy: 419, 1
+  size: 85, 95
+  orig: 87, 97
+  offset: 1, 1
+  index: -1
+ten
+  rotate: false
+  xy: 218, 332
+  size: 143, 36
+  orig: 145, 38
+  offset: 1, 1
+  index: -1
+Tiến lên
+  rotate: false
+  xy: 419, 98
+  size: 82, 25
+  orig: 84, 27
+  offset: 1, 1
+  index: -1
+solo
+  rotate: false
+  xy: 218, 250
+  size: 64, 21
+  orig: 66, 23
+  offset: 1, 1
+  index: -1

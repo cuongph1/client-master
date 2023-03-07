@@ -1,0 +1,90 @@
+
+thanglon_eff.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rays
+  rotate: false
+  xy: 1, 1
+  size: 876, 897
+  orig: 878, 899
+  offset: 1, 1
+  index: -1
+coin/coina
+  rotate: false
+  xy: 603, 1554
+  size: 35, 129
+  orig: 37, 131
+  offset: 1, 1
+  index: -1
+coin/coinb
+  rotate: false
+  xy: 292, 1665
+  size: 91, 129
+  orig: 93, 130
+  offset: 1, 1
+  index: -1
+coin/coinc
+  rotate: false
+  xy: 163, 1665
+  size: 127, 129
+  orig: 129, 131
+  offset: 1, 1
+  index: -1
+light2
+  rotate: false
+  xy: 1, 900
+  size: 637, 652
+  orig: 639, 654
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 1403, 900
+  size: 584, 608
+  orig: 586, 610
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: false
+  xy: 640, 1402
+  size: 288, 308
+  orig: 290, 310
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 930, 1402
+  size: 288, 308
+  orig: 290, 310
+  offset: 1, 1
+  index: -1
+text_big
+  rotate: false
+  xy: 640, 900
+  size: 761, 500
+  orig: 763, 502
+  offset: 1, 1
+  index: -1
+coin_banner
+  rotate: false
+  xy: 1, 1554
+  size: 600, 109
+  orig: 602, 111
+  offset: 1, 1
+  index: -1
+tl_wing2
+  rotate: false
+  xy: 1, 1665
+  size: 160, 282
+  orig: 162, 284
+  offset: 1, 1
+  index: -1
+tl_wing1
+  rotate: false
+  xy: 1220, 1402
+  size: 160, 282
+  orig: 162, 284
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+icon_au.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 25
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 68, 67
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+coup.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CỜ ÚP
+  rotate: false
+  xy: 300, 90
+  size: 91, 30
+  orig: 91, 30
+  offset: 0, 0
+  index: -1
+bg0
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1
+ic1
+  rotate: false
+  xy: 300, 122
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+ic2
+  rotate: false
+  xy: 431, 122
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1

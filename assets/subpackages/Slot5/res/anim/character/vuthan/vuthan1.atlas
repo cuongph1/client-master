@@ -1,0 +1,55 @@
+
+vuthan1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 140, 73
+  size: 52, 153
+  orig: 52, 153
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 295, 78
+  size: 47, 124
+  orig: 47, 124
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 49
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 2
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 421, 65
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 140, 3
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 484, 108
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

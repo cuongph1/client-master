@@ -1,0 +1,48 @@
+
+Untitled-2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 138, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 88, 5
+  size: 48, 121
+  orig: 48, 121
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 28
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 9
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 209, 15
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 138, 73
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1

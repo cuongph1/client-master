@@ -1,0 +1,55 @@
+
+nohu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 814, 185
+  size: 206, 63
+  orig: 206, 63
+  offset: 0, 0
+  index: -1
+FREE SPIN
+  rotate: false
+  xy: 507, 184
+  size: 305, 64
+  orig: 305, 64
+  offset: 0, 0
+  index: -1
+Layer 141
+  rotate: true
+  xy: 507, 2
+  size: 180, 257
+  orig: 180, 257
+  offset: 0, 0
+  index: -1
+NỔ HŨ
+  rotate: false
+  xy: 766, 73
+  size: 256, 109
+  orig: 256, 109
+  offset: 0, 0
+  index: -1
+SIÊU THẮNG LớN
+  rotate: false
+  xy: 2, 166
+  size: 503, 82
+  orig: 503, 82
+  offset: 0, 0
+  index: -1
+THẮNG LỚN
+  rotate: false
+  xy: 2, 82
+  size: 346, 82
+  orig: 346, 82
+  offset: 0, 0
+  index: -1
+heart-png-360x360_ef828290
+  rotate: false
+  xy: 350, 35
+  size: 147, 129
+  orig: 147, 129
+  offset: 0, 0
+  index: -1

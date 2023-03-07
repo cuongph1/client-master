@@ -1,0 +1,83 @@
+
+lobby.png
+size: 593,591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rhad
+  rotate: true
+  xy: 184, 54
+  size: 141, 173
+  orig: 141, 173
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 488, 31
+  size: 72, 201
+  orig: 72, 201
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 184, 361
+  size: 189, 228
+  orig: 189, 228
+  offset: 0, 0
+  index: -1
+bua
+  rotate: false
+  xy: 2, 79
+  size: 180, 510
+  orig: 180, 510
+  offset: 0, 0
+  index: -1
+bua2
+  rotate: false
+  xy: 184, 197
+  size: 180, 162
+  orig: 180, 162
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 366, 188
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 464, 436
+  size: 153, 127
+  orig: 153, 127
+  offset: 0, 0
+  index: -1
+ktai
+  rotate: false
+  xy: 464, 405
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 375, 340
+  size: 87, 249
+  orig: 87, 249
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: false
+  xy: 488, 234
+  size: 79, 200
+  orig: 79, 200
+  offset: 0, 0
+  index: -1
+vongco
+  rotate: true
+  xy: 359, 50
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1

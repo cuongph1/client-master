@@ -1,0 +1,139 @@
+
+aztecnohu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 608, 380
+  size: 198, 237
+  orig: 198, 237
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: true
+  xy: 391, 351
+  size: 337, 215
+  orig: 337, 215
+  offset: 0, 0
+  index: -1
+Crystal 1
+  rotate: false
+  xy: 1184, 714
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+Crystal 2
+  rotate: false
+  xy: 595, 162
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+Glow 1
+  rotate: true
+  xy: 217, 281
+  size: 407, 172
+  orig: 407, 172
+  offset: 0, 0
+  index: -1
+Glow 2
+  rotate: false
+  xy: 939, 845
+  size: 407, 172
+  orig: 407, 172
+  offset: 0, 0
+  index: -1
+Gold Back
+  rotate: false
+  xy: 2, 690
+  size: 614, 327
+  orig: 614, 327
+  offset: 0, 0
+  index: -1
+HU
+  rotate: false
+  xy: 1643, 823
+  size: 280, 194
+  orig: 280, 194
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 618, 737
+  size: 319, 280
+  orig: 319, 280
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: false
+  xy: 808, 397
+  size: 167, 220
+  orig: 167, 220
+  offset: 0, 0
+  index: -1
+Leaf 1L
+  rotate: true
+  xy: 217, 2
+  size: 277, 187
+  orig: 277, 187
+  offset: 0, 0
+  index: -1
+Leaf 1R
+  rotate: true
+  xy: 406, 72
+  size: 277, 187
+  orig: 277, 187
+  offset: 0, 0
+  index: -1
+Leaf 2L
+  rotate: false
+  xy: 1319, 712
+  size: 191, 85
+  orig: 191, 85
+  offset: 0, 0
+  index: -1
+Leaf 2R
+  rotate: false
+  xy: 608, 293
+  size: 191, 85
+  orig: 191, 85
+  offset: 0, 0
+  index: -1
+Leaf 3L
+  rotate: true
+  xy: 1925, 776
+  size: 241, 116
+  orig: 241, 116
+  offset: 0, 0
+  index: -1
+Leaf 3R
+  rotate: false
+  xy: 618, 619
+  size: 241, 116
+  orig: 241, 116
+  offset: 0, 0
+  index: -1
+NO
+  rotate: false
+  xy: 1348, 799
+  size: 293, 218
+  orig: 293, 218
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: true
+  xy: 939, 692
+  size: 151, 243
+  orig: 151, 243
+  offset: 0, 0
+  index: -1
+Stone Board
+  rotate: true
+  xy: 2, 36
+  size: 652, 213
+  orig: 652, 213
+  offset: 0, 0
+  index: -1

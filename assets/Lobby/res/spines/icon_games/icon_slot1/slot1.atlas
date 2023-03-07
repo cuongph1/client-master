@@ -1,0 +1,41 @@
+
+slot1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 1
+  size: 248, 473
+  orig: 250, 475
+  offset: 1, 1
+  index: -1
+Layer 21
+  rotate: false
+  xy: 414, 195
+  size: 44, 42
+  orig: 46, 44
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: false
+  xy: 251, 278
+  size: 120, 67
+  orig: 122, 69
+  offset: 1, 1
+  index: -1
+ran
+  rotate: false
+  xy: 251, 1
+  size: 227, 192
+  orig: 229, 194
+  offset: 1, 1
+  index: -1
+Layer 15
+  rotate: false
+  xy: 251, 195
+  size: 161, 81
+  orig: 163, 83
+  offset: 1, 1
+  index: -1

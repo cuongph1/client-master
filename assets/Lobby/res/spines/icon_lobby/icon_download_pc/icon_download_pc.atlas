@@ -1,0 +1,27 @@
+
+icon_download_pc.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+download_pc
+  rotate: false
+  xy: 114, 1
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 1
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 114, 45
+  size: 55, 50
+  orig: 57, 52
+  offset: 1, 1
+  index: -1

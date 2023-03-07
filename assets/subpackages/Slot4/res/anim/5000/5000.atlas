@@ -1,0 +1,76 @@
+
+5000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 2, 154
+  size: 438, 336
+  orig: 438, 336
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 2, 2
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 472, 94
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 958, 145
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 43
+  size: 207, 109
+  orig: 207, 109
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 442, 137
+  size: 375, 353
+  orig: 375, 353
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 381, 19
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 211, 14
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 819, 187
+  size: 175, 303
+  orig: 175, 303
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 819, 81
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1

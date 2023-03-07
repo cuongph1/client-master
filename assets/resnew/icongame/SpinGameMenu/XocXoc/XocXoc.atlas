@@ -1,0 +1,48 @@
+
+XocXoc.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78 copy 2
+  rotate: false
+  xy: 1, 1
+  size: 264, 235
+  orig: 296, 249
+  offset: 16, 1
+  index: -1
+Layer 6798
+  rotate: false
+  xy: 267, 1
+  size: 176, 132
+  orig: 178, 134
+  offset: 1, 1
+  index: -1
+Layer 6799
+  rotate: false
+  xy: 445, 1
+  size: 30, 45
+  orig: 32, 47
+  offset: 1, 1
+  index: -1
+Layer 6799 copy
+  rotate: false
+  xy: 219, 238
+  size: 31, 46
+  orig: 33, 48
+  offset: 1, 1
+  index: -1
+Layer 6797
+  rotate: false
+  xy: 267, 135
+  size: 147, 109
+  orig: 149, 111
+  offset: 1, 1
+  index: -1
+xóc đĩa
+  rotate: false
+  xy: 1, 238
+  size: 216, 53
+  orig: 218, 55
+  offset: 1, 1
+  index: -1

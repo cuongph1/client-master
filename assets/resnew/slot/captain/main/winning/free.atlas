@@ -1,0 +1,20 @@
+
+free.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE SPIN
+  rotate: false
+  xy: 2, 2
+  size: 665, 95
+  orig: 665, 95
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 99
+  size: 521, 465
+  orig: 521, 465
+  offset: 0, 0
+  index: -1

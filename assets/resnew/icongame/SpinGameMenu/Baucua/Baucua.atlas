@@ -1,0 +1,48 @@
+
+Baucua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78 copy 2
+  rotate: false
+  xy: 1, 1
+  size: 264, 235
+  orig: 296, 249
+  offset: 16, 1
+  index: -1
+Layer 6808
+  rotate: false
+  xy: 1, 238
+  size: 245, 145
+  orig: 247, 147
+  offset: 1, 1
+  index: -1
+Layer 6809
+  rotate: false
+  xy: 248, 238
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+Layer 6810
+  rotate: false
+  xy: 1, 385
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1
+Layer 6811
+  rotate: false
+  xy: 327, 385
+  size: 101, 103
+  orig: 103, 105
+  offset: 1, 1
+  index: -1
+BẦU CUA
+  rotate: false
+  xy: 113, 385
+  size: 212, 51
+  orig: 214, 53
+  offset: 1, 1
+  index: -1

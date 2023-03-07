@@ -1,0 +1,251 @@
+
+xoso.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 1292, 343
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 1810, 1936
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 1810, 1870
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 1550, 1136
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+so so
+  rotate: false
+  xy: 2, 1622
+  size: 258, 405
+  orig: 258, 405
+  offset: 0, 0
+  index: -1
+so so_00000
+  rotate: false
+  xy: 262, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00001
+  rotate: false
+  xy: 2, 812
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00002
+  rotate: false
+  xy: 520, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00003
+  rotate: false
+  xy: 2, 407
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00004
+  rotate: false
+  xy: 778, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00005
+  rotate: false
+  xy: 2, 2
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00006
+  rotate: false
+  xy: 1036, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00007
+  rotate: false
+  xy: 1294, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00008
+  rotate: false
+  xy: 1552, 1624
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00009
+  rotate: false
+  xy: 260, 1217
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00010
+  rotate: false
+  xy: 260, 812
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00011
+  rotate: false
+  xy: 260, 407
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00012
+  rotate: false
+  xy: 260, 2
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00013
+  rotate: false
+  xy: 518, 1219
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00014
+  rotate: false
+  xy: 518, 814
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00015
+  rotate: false
+  xy: 776, 1219
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00016
+  rotate: false
+  xy: 518, 409
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00017
+  rotate: false
+  xy: 776, 814
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00018
+  rotate: false
+  xy: 1034, 1219
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00019
+  rotate: false
+  xy: 518, 4
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00020
+  rotate: false
+  xy: 776, 409
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00021
+  rotate: false
+  xy: 1034, 814
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00022
+  rotate: false
+  xy: 1292, 1219
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00023
+  rotate: false
+  xy: 776, 4
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00024
+  rotate: false
+  xy: 1034, 409
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00025
+  rotate: false
+  xy: 1292, 814
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00026
+  rotate: false
+  xy: 1550, 1219
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00027
+  rotate: false
+  xy: 1034, 4
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00028
+  rotate: false
+  xy: 1292, 409
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1
+so so_00029
+  rotate: false
+  xy: 2, 1217
+  size: 256, 403
+  orig: 256, 403
+  offset: 0, 0
+  index: -1

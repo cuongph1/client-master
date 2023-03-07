@@ -1,0 +1,48 @@
+
+TX.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 78
+  rotate: false
+  xy: 1, 1
+  size: 264, 235
+  orig: 296, 249
+  offset: 16, 1
+  index: -1
+Layer 105
+  rotate: false
+  xy: 267, 1
+  size: 131, 124
+  orig: 133, 126
+  offset: 1, 1
+  index: -1
+Layer 106
+  rotate: false
+  xy: 400, 1
+  size: 101, 103
+  orig: 103, 105
+  offset: 1, 1
+  index: -1
+Layer 107
+  rotate: false
+  xy: 400, 106
+  size: 88, 86
+  orig: 90, 88
+  offset: 1, 1
+  index: -1
+tài xỉu
+  rotate: false
+  xy: 267, 194
+  size: 106, 60
+  orig: 108, 62
+  offset: 1, 1
+  index: -1
+Layer 108
+  rotate: false
+  xy: 375, 194
+  size: 95, 57
+  orig: 97, 59
+  offset: 1, 1
+  index: -1

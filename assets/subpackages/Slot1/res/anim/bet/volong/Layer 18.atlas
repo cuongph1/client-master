@@ -1,0 +1,97 @@
+
+Layer 18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 328, 382
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 490, 466
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 444, 440
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 76, 67
+  size: 12, 55
+  orig: 12, 55
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 192, 175
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 328, 418
+  size: 93, 16
+  orig: 93, 16
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 189
+  size: 324, 310
+  orig: 324, 310
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 444, 453
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 2, 13
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 2, 124
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+long copy
+  rotate: false
+  xy: 328, 436
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+vo
+  rotate: false
+  xy: 2, 61
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+vo copy
+  rotate: false
+  xy: 118, 126
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1

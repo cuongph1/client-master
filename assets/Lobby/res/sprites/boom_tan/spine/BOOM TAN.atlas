@@ -1,0 +1,41 @@
+
+BOOM TAN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 291
+  size: 330, 201
+  orig: 330, 201
+  offset: 0, 0
+  index: -1
+SH
+  rotate: false
+  xy: 2, 131
+  size: 207, 158
+  orig: 207, 158
+  offset: 0, 0
+  index: -1
+air copy
+  rotate: false
+  xy: 334, 374
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+iphone
+  rotate: false
+  xy: 211, 180
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+lead
+  rotate: false
+  xy: 2, 2
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1

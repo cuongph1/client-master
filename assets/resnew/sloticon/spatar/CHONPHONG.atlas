@@ -1,0 +1,111 @@
+
+CHONPHONG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 6
+  rotate: true
+  xy: 1297, 187
+  size: 124, 213
+  orig: 126, 215
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1576, 204
+  size: 163, 163
+  orig: 165, 165
+  offset: 1, 1
+  index: -1
+Layer 10
+  rotate: false
+  xy: 388, 38
+  size: 133, 83
+  orig: 135, 85
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 828, 163
+  size: 57, 21
+  orig: 59, 24
+  offset: 1, 1
+  index: -1
+Layer 2 copy
+  rotate: false
+  xy: 583, 126
+  size: 58, 22
+  orig: 60, 24
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1297, 313
+  size: 277, 195
+  orig: 279, 197
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1056, 246
+  size: 239, 262
+  orig: 242, 264
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1839, 317
+  size: 198, 191
+  orig: 200, 192
+  offset: 1, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1056, 119
+  size: 125, 194
+  orig: 128, 197
+  offset: 2, 2
+  index: -1
+Layer 7
+  rotate: false
+  xy: 266, 10
+  size: 120, 111
+  orig: 122, 114
+  offset: 1, 2
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1576, 369
+  size: 139, 261
+  orig: 141, 263
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: false
+  xy: 266, 123
+  size: 315, 385
+  orig: 319, 388
+  offset: 2, 1
+  index: -1
+NHANVAT1
+  rotate: false
+  xy: 828, 186
+  size: 226, 322
+  orig: 228, 324
+  offset: 1, 1
+  index: -1
+NHANVAT2
+  rotate: false
+  xy: 2, 2
+  size: 262, 506
+  orig: 264, 508
+  offset: 1, 1
+  index: -1
+NHANVAT3
+  rotate: false
+  xy: 583, 150
+  size: 243, 358
+  orig: 248, 361
+  offset: 2, 1
+  index: -1

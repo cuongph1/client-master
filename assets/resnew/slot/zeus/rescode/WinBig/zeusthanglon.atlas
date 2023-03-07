@@ -1,0 +1,152 @@
+
+zeusthanglon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back Glow
+  rotate: false
+  xy: 2, 499
+  size: 792, 517
+  orig: 792, 517
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 46
+  size: 728, 451
+  orig: 728, 451
+  offset: 0, 0
+  index: -1
+Glow 2
+  rotate: false
+  xy: 732, 338
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Glow 3
+  rotate: false
+  xy: 732, 392
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+Glow 5
+  rotate: false
+  xy: 732, 284
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Glow 6
+  rotate: false
+  xy: 732, 445
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 796, 721
+  size: 295, 220
+  orig: 295, 220
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 796, 423
+  size: 210, 296
+  orig: 210, 296
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: true
+  xy: 794, 187
+  size: 234, 191
+  orig: 234, 191
+  offset: 0, 0
+  index: -1
+Spark 4
+  rotate: true
+  xy: 886, 2
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+Thunder Orb
+  rotate: false
+  xy: 732, 26
+  size: 152, 159
+  orig: 152, 159
+  offset: 0, 0
+  index: -1
+flare13
+  rotate: false
+  xy: 2, 18
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+
+zeusthanglon2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud
+  rotate: false
+  xy: 2, 254
+  size: 852, 227
+  orig: 852, 227
+  offset: 0, 0
+  index: -1
+Glow 1
+  rotate: false
+  xy: 692, 181
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+Glow 4
+  rotate: false
+  xy: 295, 68
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+Spark 1
+  rotate: false
+  xy: 2, 2
+  size: 165, 140
+  orig: 165, 140
+  offset: 0, 0
+  index: -1
+Spark 2
+  rotate: false
+  xy: 856, 280
+  size: 109, 201
+  orig: 109, 201
+  offset: 0, 0
+  index: -1
+Spark 3
+  rotate: false
+  xy: 568, 181
+  size: 122, 71
+  orig: 122, 71
+  offset: 0, 0
+  index: -1
+Thang Lon
+  rotate: false
+  xy: 2, 144
+  size: 564, 108
+  orig: 564, 108
+  offset: 0, 0
+  index: -1
+Thunder Orb 2
+  rotate: false
+  xy: 169, 13
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1

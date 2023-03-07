@@ -1,0 +1,174 @@
+
+spatans_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 723 copy
+  rotate: false
+  xy: 1, 1
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+spatans_00018
+  rotate: false
+  xy: 1, 404
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00005
+  rotate: false
+  xy: 272, 298
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00001
+  rotate: false
+  xy: 474, 1
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00010
+  rotate: false
+  xy: 202, 503
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00011
+  rotate: false
+  xy: 676, 199
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00015
+  rotate: false
+  xy: 808, 397
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00019
+  rotate: false
+  xy: 607, 397
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00013
+  rotate: false
+  xy: 606, 496
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00014
+  rotate: false
+  xy: 1, 503
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00021
+  rotate: false
+  xy: 405, 496
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00016
+  rotate: false
+  xy: 807, 496
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00000
+  rotate: false
+  xy: 405, 397
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00017
+  rotate: false
+  xy: 676, 1
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00004
+  rotate: false
+  xy: 474, 100
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00002
+  rotate: false
+  xy: 272, 199
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00020
+  rotate: false
+  xy: 676, 100
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00003
+  rotate: false
+  xy: 474, 199
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00007
+  rotate: false
+  xy: 474, 298
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00012
+  rotate: false
+  xy: 676, 298
+  size: 199, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00009
+  rotate: false
+  xy: 203, 404
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00006
+  rotate: false
+  xy: 272, 1
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+spatans_00008
+  rotate: false
+  xy: 272, 100
+  size: 200, 97
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+logo
+  rotate: false
+  xy: 403, 595
+  size: 212, 47
+  orig: 214, 49
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+iconfree.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 67
+  rotate: false
+  xy: 2, 2
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: false
+  xy: 119, 13
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+Layer 69
+  rotate: false
+  xy: 228, 84
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1

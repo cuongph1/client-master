@@ -1,0 +1,48 @@
+
+NoHu-Footer-2-bg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 307
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 160, 123
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 2
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 160, 197
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2, 69
+  size: 236, 156
+  orig: 236, 156
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 207, 354
+  size: 236, 156
+  orig: 236, 156
+  offset: 0, 0
+  index: -1

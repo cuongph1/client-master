@@ -1,0 +1,125 @@
+
+aztecfrontlobby.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 1326, 125
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Bird
+  rotate: false
+  xy: 1472, 197
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 349, 30
+  size: 243, 216
+  orig: 243, 216
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 783, 68
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 1545, 204
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Feets
+  rotate: true
+  xy: 2, 44
+  size: 202, 345
+  orig: 202, 345
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 594, 30
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 594, 125
+  size: 237, 121
+  orig: 237, 121
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 1392, 199
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: true
+  xy: 1021, 130
+  size: 116, 173
+  orig: 116, 173
+  offset: 0, 0
+  index: -1
+Leaf
+  rotate: false
+  xy: 2, 2
+  size: 313, 40
+  orig: 313, 40
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: true
+  xy: 833, 87
+  size: 159, 186
+  orig: 159, 186
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 1021, 88
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Z
+  rotate: true
+  xy: 1602, 204
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+butterfly
+  rotate: false
+  xy: 1326, 182
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+butterfly_1
+  rotate: false
+  xy: 717, 59
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ice_core_len_yellow
+  rotate: false
+  xy: 1196, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

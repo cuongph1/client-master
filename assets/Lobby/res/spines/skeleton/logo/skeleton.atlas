@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 388,989
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1 copy 11
+  rotate: true
+  xy: 2, 420
+  size: 567, 202
+  orig: 575, 209
+  offset: 5, 4
+  index: -1
+Layer 12
+  rotate: true
+  xy: 2, 2
+  size: 416, 128
+  orig: 420, 132
+  offset: 2, 2
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 132, 9
+  size: 135, 135
+  orig: 137, 137
+  offset: 1, 1
+  index: -1
+Rounded Rectangle 1 copy
+  rotate: true
+  xy: 206, 441
+  size: 546, 180
+  orig: 548, 182
+  offset: 1, 1
+  index: -1
+bo bai_01
+  rotate: true
+  xy: 269, 35
+  size: 128, 101
+  orig: 130, 103
+  offset: 1, 1
+  index: -1
+bo bai_11
+  rotate: false
+  xy: 132, 146
+  size: 118, 134
+  orig: 120, 137
+  offset: 1, 1
+  index: -1
+bo bai_15
+  rotate: false
+  xy: 255, 303
+  size: 131, 136
+  orig: 134, 138
+  offset: 2, 1
+  index: -1
+bo bai_19
+  rotate: true
+  xy: 255, 165
+  size: 136, 131
+  orig: 138, 133
+  offset: 1, 1
+  index: -1
+bo bai_23
+  rotate: true
+  xy: 132, 282
+  size: 136, 121
+  orig: 138, 123
+  offset: 1, 1
+  index: -1

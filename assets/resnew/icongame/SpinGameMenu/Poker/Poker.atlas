@@ -1,0 +1,27 @@
+
+Poker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+POKER
+  rotate: false
+  xy: 300, 5
+  size: 91, 24
+  orig: 91, 24
+  offset: 0, 0
+  index: -1
+bgo
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1
+ic
+  rotate: true
+  xy: 300, 31
+  size: 220, 182
+  orig: 220, 182
+  offset: 0, 0
+  index: -1

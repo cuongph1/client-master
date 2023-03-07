@@ -1,0 +1,62 @@
+
+slot6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 838, 329
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 2, 2
+  size: 250, 472
+  orig: 250, 472
+  offset: 0, 0
+  index: -1
+Layer 34 copy
+  rotate: false
+  xy: 254, 152
+  size: 291, 322
+  orig: 291, 322
+  offset: 0, 0
+  index: -1
+Layer 36 copy
+  rotate: false
+  xy: 254, 16
+  size: 196, 134
+  orig: 196, 134
+  offset: 0, 0
+  index: -1
+Layer 41 copy
+  rotate: true
+  xy: 782, 167
+  size: 204, 54
+  orig: 204, 54
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: false
+  xy: 782, 373
+  size: 198, 101
+  orig: 198, 101
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: false
+  xy: 452, 65
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 547, 160
+  size: 233, 314
+  orig: 233, 314
+  offset: 0, 0
+  index: -1

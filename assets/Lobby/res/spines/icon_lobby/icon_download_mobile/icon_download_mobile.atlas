@@ -1,0 +1,27 @@
+
+icon_download_mobile.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+download_mobile
+  rotate: false
+  xy: 114, 1
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 1
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+mobile
+  rotate: false
+  xy: 114, 45
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1

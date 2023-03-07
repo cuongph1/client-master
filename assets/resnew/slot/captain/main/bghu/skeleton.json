@@ -1,0 +1,59 @@
+{
+"skeleton": { "hash": "FHvaLpXfzAyUnHeTzb6g6/JKL1s", "spine": "3.6.53", "width": 500, "height": 128, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bg_tien", "bone": "root", "attachment": "bg_tien" },
+	{ "name": "root", "bone": "root", "attachment": "bg_tien_00014", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"bg_tien": {
+			"bg_tien": { "width": 298, "height": 76 }
+		},
+		"root": {
+			"bg_tien_00000": { "width": 500, "height": 128 },
+			"bg_tien_00001": { "width": 500, "height": 128 },
+			"bg_tien_00002": { "width": 500, "height": 128 },
+			"bg_tien_00003": { "width": 500, "height": 128 },
+			"bg_tien_00004": { "width": 500, "height": 128 },
+			"bg_tien_00005": { "width": 500, "height": 128 },
+			"bg_tien_00006": { "width": 500, "height": 128 },
+			"bg_tien_00007": { "width": 500, "height": 128 },
+			"bg_tien_00008": { "width": 500, "height": 128 },
+			"bg_tien_00009": { "width": 500, "height": 128 },
+			"bg_tien_00010": { "width": 500, "height": 128 },
+			"bg_tien_00011": { "width": 500, "height": 128 },
+			"bg_tien_00012": { "width": 500, "height": 128 },
+			"bg_tien_00013": { "width": 500, "height": 128 },
+			"bg_tien_00014": { "width": 500, "height": 128 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"root": {
+				"attachment": [
+					{ "time": 0, "name": "bg_tien_00000" },
+					{ "time": 0.0333, "name": "bg_tien_00001" },
+					{ "time": 0.1, "name": "bg_tien_00002" },
+					{ "time": 0.1333, "name": "bg_tien_00003" },
+					{ "time": 0.2, "name": "bg_tien_00004" },
+					{ "time": 0.2333, "name": "bg_tien_00005" },
+					{ "time": 0.2667, "name": "bg_tien_00006" },
+					{ "time": 0.3333, "name": "bg_tien_00007" },
+					{ "time": 0.3667, "name": "bg_tien_00008" },
+					{ "time": 0.4333, "name": "bg_tien_00009" },
+					{ "time": 0.4667, "name": "bg_tien_00010" },
+					{ "time": 0.5333, "name": "bg_tien_00011" },
+					{ "time": 0.5667, "name": "bg_tien_00012" },
+					{ "time": 0.6, "name": "bg_tien_00013" },
+					{ "time": 0.6667, "name": "bg_tien_00014" }
+				]
+			}
+		}
+	}
+}
+}

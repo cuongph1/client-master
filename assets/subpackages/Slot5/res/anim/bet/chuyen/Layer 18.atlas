@@ -1,0 +1,118 @@
+
+Layer 18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2den
+  rotate: false
+  xy: 227, 526
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 607
+  size: 354, 386
+  orig: 354, 386
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 358, 687
+  size: 170, 61
+  orig: 170, 61
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 2, 180
+  size: 170, 61
+  orig: 170, 61
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 422
+  size: 207, 76
+  orig: 207, 76
+  offset: 0, 0
+  index: -1
+Layer 5 copy
+  rotate: false
+  xy: 358, 836
+  size: 207, 76
+  orig: 207, 76
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 336
+  size: 186, 84
+  orig: 186, 84
+  offset: 0, 0
+  index: -1
+Layer 6 copy
+  rotate: false
+  xy: 358, 750
+  size: 186, 84
+  orig: 186, 84
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 358, 613
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 2, 106
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+auhue
+  rotate: false
+  xy: 597, 931
+  size: 210, 62
+  orig: 210, 62
+  offset: 0, 0
+  index: -1
+dengiua
+  rotate: false
+  xy: 433, 613
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+nhahyben
+  rotate: false
+  xy: 2, 500
+  size: 223, 105
+  orig: 223, 105
+  offset: 0, 0
+  index: -1
+nhaybenduoi
+  rotate: false
+  xy: 358, 914
+  size: 237, 79
+  orig: 237, 79
+  offset: 0, 0
+  index: -1
+nhaygiua
+  rotate: false
+  xy: 2, 243
+  size: 179, 91
+  orig: 179, 91
+  offset: 0, 0
+  index: -1
+nhaygiuaduoi
+  rotate: false
+  xy: 809, 936
+  size: 186, 57
+  orig: 186, 57
+  offset: 0, 0
+  index: -1

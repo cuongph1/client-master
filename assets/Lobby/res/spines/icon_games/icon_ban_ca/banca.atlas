@@ -1,0 +1,48 @@
+
+banca.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+31c4a7b2d027d439d0c92797aa839217d21247b691233-i3oydY_fw658
+  rotate: true
+  xy: 369, 2
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1
+Layer 723 copy
+  rotate: true
+  xy: 369, 241
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+dragon@1x878eea9
+  rotate: false
+  xy: 2, 169
+  size: 365, 341
+  orig: 365, 341
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 772, 317
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+lộc
+  rotate: false
+  xy: 2, 86
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+tài
+  rotate: false
+  xy: 772, 420
+  size: 130, 90
+  orig: 130, 90
+  offset: 0, 0
+  index: -1

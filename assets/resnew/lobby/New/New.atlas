@@ -1,0 +1,27 @@
+
+New.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NewBG
+  rotate: false
+  xy: 2, 17
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+NewGlow
+  rotate: false
+  xy: 60, 30
+  size: 56, 30
+  orig: 56, 43
+  offset: 0, 7
+  index: -1
+NewTrang
+  rotate: false
+  xy: 2, 2
+  size: 41, 13
+  orig: 56, 43
+  offset: 8, 16
+  index: -1

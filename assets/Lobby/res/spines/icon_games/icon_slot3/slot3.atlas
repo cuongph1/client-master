@@ -1,0 +1,41 @@
+
+slot3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1, 1
+  size: 248, 473
+  orig: 248, 473
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 397, 163
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Bentley-symbol-black-1920x1080
+  rotate: false
+  xy: 251, 163
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+ben
+  rotate: false
+  xy: 251, 1
+  size: 223, 160
+  orig: 223, 160
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 251, 240
+  size: 205, 39
+  orig: 205, 39
+  offset: 0, 0
+  index: -1

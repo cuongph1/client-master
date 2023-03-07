@@ -1,0 +1,20 @@
+
+au1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dbl1dws-0b1f3b8a-31a5-4fe8-8a1f-35b230adc9ed
+  rotate: true
+  xy: 2, 118
+  size: 254, 742
+  orig: 254, 742
+  offset: 0, 0
+  index: -1
+heart-png-360x360_ef828290
+  rotate: false
+  xy: 2, 2
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1

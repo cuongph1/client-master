@@ -1,0 +1,41 @@
+
+slot5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 760, 432
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 2, 2
+  size: 250, 472
+  orig: 250, 472
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: false
+  xy: 254, 134
+  size: 269, 340
+  orig: 269, 340
+  offset: 0, 0
+  index: -1
+Levels 1
+  rotate: false
+  xy: 254, 43
+  size: 237, 89
+  orig: 237, 89
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 525, 160
+  size: 233, 314
+  orig: 233, 314
+  offset: 0, 0
+  index: -1

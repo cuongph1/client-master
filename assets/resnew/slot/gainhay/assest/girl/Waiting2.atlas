@@ -1,0 +1,55 @@
+
+Waiting2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6841
+  rotate: false
+  xy: 447, 41
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Layer 6842
+  rotate: false
+  xy: 408, 81
+  size: 178, 167
+  orig: 178, 167
+  offset: 0, 0
+  index: -1
+Layer 6843
+  rotate: true
+  xy: 2, 2
+  size: 246, 404
+  orig: 246, 404
+  offset: 0, 0
+  index: -1
+Layer 6844
+  rotate: false
+  xy: 837, 209
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Layer 6845
+  rotate: false
+  xy: 588, 138
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Layer 6846
+  rotate: true
+  xy: 588, 180
+  size: 68, 247
+  orig: 68, 247
+  offset: 0, 0
+  index: -1
+Layer 6847
+  rotate: false
+  xy: 408, 35
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+MauBinh.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abich
+  rotate: false
+  xy: 679, 145
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+BGO
+  rotate: false
+  xy: 2, 2
+  size: 264, 235
+  orig: 264, 235
+  offset: 0, 0
+  index: -1
+Jco
+  rotate: false
+  xy: 486, 137
+  size: 191, 100
+  orig: 191, 100
+  offset: 0, 0
+  index: -1
+Jnhep
+  rotate: false
+  xy: 268, 14
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 268, 118
+  size: 216, 119
+  orig: 216, 119
+  offset: 0, 0
+  index: -1
+MẬU BINH
+  rotate: false
+  xy: 829, 193
+  size: 157, 44
+  orig: 157, 44
+  offset: 0, 0
+  index: -1
