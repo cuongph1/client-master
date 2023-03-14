@@ -42,11 +42,18 @@ export default class XocDiaController extends cc.Component {
         App.instance.showErrLoading("Đang kết nối tới server...");
         XocDiaNetworkClient.getInstance().addOnOpen(() => {
             App.instance.showErrLoading("Đang đang đăng nhập...");
+            // update logon time of use to sesion in server
+            // controllerID =1, tuong ung confirg tren server la 
+            // BitZeroServer.java engineConfiguration.addController(new ControllerConfig(coreSettings.extensionControllerClass, DefaultConstants.CORE_EXTENSIONS_CONTROLLER_ID, bzSettings.extensionControllerThreadPoolSize, bzSettings.extensionControllerRequestQueueSize));
+            // server luc tao socket se setting method handler  WebSocketServerHandler
+            // xu ly connect :handleHttpRequest(ctx, (HttpRequest)msg)
+            // xu ly message :handleWebSocketFrame(ctx, (WebSocketFrame)msg) -> phan tich message get controllerID and run method xy ly data
             XocDiaNetworkClient.getInstance().send(new cmdNetwork.SendLogin(Configs.Login.Nickname, Configs.Login.AccessToken));
         }, this);
         XocDiaNetworkClient.getInstance().addOnClose(() => {
             App.instance.loadScene("Lobby");
         }, this);
+        // event load phong choi xoc dia
         XocDiaNetworkClient.getInstance().addListener((data) => {
             let inpacket = new InPacket(data);
             switch (inpacket.getCmdId()) {
@@ -56,6 +63,7 @@ export default class XocDiaController extends cc.Component {
                     break;
             }
         }, this);
+        // start connect websocket
         XocDiaNetworkClient.getInstance().connect();
     }
 
