@@ -9,7 +9,7 @@ export default class VersionConfig {
 
     static VersionName = "";
     static CPName = "";
-    static ENV = VersionConfig.ENV_DEV;
+    static ENV = VersionConfig.ENV_LOCAL;
 }
 if (cc.sys.isNative) {
     let versionConfig = cc.sys.localStorage.getItem("VersionConfig");

@@ -124,8 +124,8 @@ namespace Configs {
             port: 443
         };
         static readonly HOST_XOCDIA = {
-            host: "wxocdia.eloras.icu",
-            port: 443
+            host: "localhost", //"wxocdia.eloras.icu",
+            port:  2344// 443
         };
         static readonly HOST_BACAY = {
             host: "wbacay.eloras.icu",

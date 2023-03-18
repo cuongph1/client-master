@@ -37,6 +37,8 @@ export default class LoadingController extends cc.Component {
         
         for (let i = 0; i < this.loadings.childrenCount; i++) {
             this.loadings.children[i].active = this.loadings.children[i].name == VersionConfig.CPName;
+           // console.log("VersionConfig.CPName " + VersionConfig.CPName);
+           // console.log(this.loadings.children[i].name);
             if (this.loadings.children[i].name == VersionConfig.CPName) {
                 
                 this.sprProgressBar = this.loadings.children[i].getChildByName("progressBar").getComponent(cc.Sprite);
@@ -66,8 +68,8 @@ export default class LoadingController extends cc.Component {
                         json['remoteManifestUrl'] = rmu[0] + "?t=" + t;
                     }
                     let saved = jsb.fileUtils.writeStringToFile(JSON.stringify(json, null, "\t"), this._storagePath + "/project.manifest");
-                    // console.log("json new saved: " + saved);
-                    // console.log("json new: " + JSON.stringify(json, null, "\t"));
+                     console.log("json new saved: " + saved);
+                     console.log("json new: " + JSON.stringify(json, null, "\t"));
                     this.initAssetManager();
                     this.checkUpdate();
                 });

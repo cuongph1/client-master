@@ -26,6 +26,7 @@ export default class TabsListGame extends cc.Component {
     private seletectIdx = 0;
 
     start() {
+        console.log("----1----");
         for (let i = 0; i < this.tabs.length; i++) {
             let tab = this.tabs[i];
             tab.button.node.on("click", () => {
@@ -42,6 +43,7 @@ export default class TabsListGame extends cc.Component {
     }
 
     private onTabChanged() {
+        console.log("----onTabChanged----");
         switch (this.seletectIdx) {
             case 0:
                 for (let i = 0; i < this.itemGames.length; i++) {
