@@ -1,4 +1,4 @@
-import Dialog from "../../scripts/common/Dialog";
+import Dialog from "../../../scripts/common/Dialog";
 
 const { ccclass, property } = cc._decorator;
 
